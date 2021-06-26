@@ -4,5 +4,5 @@ Dari [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-con
 
 ## Instalasi
 - Masuk ke direktori projek laravel kalian.
-- Buat direktori seperti yang ada atau git clone [file github](https://github.com/niomictomi/Laravel-Docker.git) pada diretkori ini.
+- Buat direktori seperti yang ada atau git clone [file github](https://github.com/niomictomi/Laravel-Docker.git) pada direktori ini.
 - Selesai.
